@@ -59,6 +59,7 @@
                         <configuration>
                             <nodeVersion>v22.22.2</nodeVersion>
                             <yarnVersion>v1.22.22</yarnVersion>
+                            <nodeDownloadRoot>https://mirrors.huaweicloud.com/nodejs/</nodeDownloadRoot>
                         </configuration>
                     </execution>
                     <execution>
